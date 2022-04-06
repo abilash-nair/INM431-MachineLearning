@@ -1,7 +1,7 @@
 # INM431-MachineLearning
 Repo for Machine Learning module at City University
 
-Instructions:
+**Instructions:**
 
 Datasets included in the zip file. Original data file name is data_mi.csv.
 
@@ -13,7 +13,7 @@ data_train_scaled_smote.csv
 
 data_test_scaled.csv
 
-Requirements:
+*Requirements:*
 
 pandas - for easy data processing through dataframes
 
@@ -27,7 +27,7 @@ sklearn - for standard scaler to normalise variables
 
 imblearn - for SMOTE, over and under sampling
 
-MATLAB version: R2020a
+**MATLAB version: R2020a**
 
 2. For Decison Tree training: Use MLCWDTTrain.m
 
