@@ -16,10 +16,15 @@ data_test_scaled.csv
 Requirements:
 
 pandas - for easy data processing through dataframes
+
 matplotlib - for metrics 
+
 numpy - for modifying, arranging, feeding and reshaping data
+
 seaborn - for plotting histograms and boxplots
+
 sklearn - for standard scaler to normalise variables
+
 imblearn - for SMOTE, over and under sampling
 
 MATLAB version: R2020a
