@@ -10,6 +10,7 @@ Datasets included in the zip file. Original data file name is data_mi.csv.
 Python is used for exploratory data analysis. A total of four files will be generated. The most important datasets are the ones which are scaled and balanced. Two datasets, one for training and the other for testing is provided. File names:
 
 data_train_scaled_smote.csv
+
 data_test_scaled.csv
 
 Requirements:
